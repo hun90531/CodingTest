@@ -1,8 +1,4 @@
-import sys
 from itertools import permutations
-
-input = sys.stdin.readline
-
 
 def solution(expression):
     operator = ['*', '+', '-']
